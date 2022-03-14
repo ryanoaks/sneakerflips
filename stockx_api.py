@@ -1,0 +1,5 @@
+auth_token = '9xCA.gdgpmSK4STHJAzMGKyTpDZp.ebN'
+ro_auth_token = 'pg3BmrgQr3XRSMA~WFRAcMwZ_VwcLknE'
+api_version = '11 (2018-05-30)'
+ro_sid = 'IRdVotWnKPKS2366183vAoucQ7RDTAGKR1'
+sid = 'IRE4rjCKtLuy2366183M7sPMCWdVjMxhU1'
